@@ -26,3 +26,5 @@ npx hardhat run --network localhost scripts/deploy.js
 
 npx hardhat run --network <your-network> scripts/deploy.js
 
+安装 openzeppelin合约库
+ npm install @openzeppelin/contracts
